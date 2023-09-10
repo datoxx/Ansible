@@ -1,4 +1,1 @@
-linux_name: dato
-location: /home/dato/Desktop/for_devops/simple-nodejs
-version: 1.0.0
-user_home_dir: /home/{{linux_name}}
+docker_password: 072Fe290@
